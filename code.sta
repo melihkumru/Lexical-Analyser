@@ -1,0 +1,7 @@
+text s is "Ohh ice ice baby!".
+text s2.
+s2 is s- "ice".
+write s2.  /* Prints "Ohh  ice baby!"*/
+newLine.
+s2 is s2- " ice".
+write s2.  /* Prints “Ohh  baby!"*/
